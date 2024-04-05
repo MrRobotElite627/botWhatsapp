@@ -1,0 +1,230 @@
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '120363280103351908@g.us',
+    fromMe: false,
+    id: 'B0B670C5C3B7B71E2E71500B1240E7B5',
+    participant: '51933932875@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'No',
+  from: '120363280103351908@g.us',
+  pushName: 'YOUNS-ROOM',
+  broadcast: false,
+  messageTimestamp: 1712280845,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 3b be 68 74 95 6a e9 11 5d f8 e4 82 9d 0f 88 19 15 f3 d3 24 c3 cd 12 f9 c8 aa f6 57 46 fc 7f 6f>
+    },
+    pollCreationMessageV3: PollCreationMessage {
+      options: [Array],
+      name: '🙋🏻‍♀️🇵🇪Ya te inscribiste al Programa Social de Vivienda?',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '15103425915@s.whatsapp.net',
+    fromMe: false,
+    id: 'F59CF282CB56E5632826AEDBFF909FBF',
+    participant: undefined
+  },
+  messageTimestamp: 1712293919,
+  pushName: 'CodexPE',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CodexPE',
+  body: 'Hola',
+  from: '15103425915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_56241c1a-07a5-439e-81da-c53adddaa261',
+  keyword: 'key_f4fef252-4c92-4e74-ac3d-5ba764f991af',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: 'https://www.shutterstock.com/image-vector/3d-artificial-intelligence-digital-brain-600nw-2288372371.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '11ad3c25b4b121c5c994bd4a939a51bf'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_67bdb46e-bd4d-4c75-a656-4404778cccab',
+  keyword: 'ans_56241c1a-07a5-439e-81da-c53adddaa261',
+  answer: 'Por el momento estoy ocupado pero te puedo atender dentro de poco.\n' +
+    '\n' +
+    '*¿En qué puedo ayudarte?*\n' +
+    'Mis servicios incluyen:\n' +
+    '\n' +
+    '*1.* _Desarrollo de páginas web_\n' +
+    '*2.* _Desarrollo de aplicaciones_\n' +
+    '*3.* _Desarrollo de sistemas web_\n' +
+    '*4.* _Creación de bots para *WhatsApp* y *Telegram*_\n' +
+    '\n' +
+    'Si deseas más información sobre alguno de estos servicios, no dudes en preguntar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6edb75f604fae5330d98296a7ca4c7b1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '15103425915@s.whatsapp.net',
+    fromMe: false,
+    id: 'AD4462D52DA1C62846906C831FF1E825',
+    participant: undefined
+  },
+  messageTimestamp: 1712293938,
+  pushName: 'CodexPE',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CodexPE',
+  body: '1',
+  from: '15103425915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7687cae7-1df7-44d5-880d-128ed356e82b',
+  keyword: 'key_a60b3ca2-ec8f-4b64-8d83-86cd8717899d',
+  answer: '🌐 *Paginas web*, Excelente,\n' +
+    '*¿Qué tipo de página web necesitas?*\n' +
+    'Por favor, elige una opción:\n' +
+    '\n' +
+    '👉 *blog:* Blog\n' +
+    '👉 *ecommerce:* Tienda en línea\n' +
+    '👉 *corporativa:* Página corporativa\n' +
+    '👉 *restaurante:* Página web para restaurante\n' +
+    '👉 *educacion:* Página web para institución educativa\n' +
+    '👉 *otro* Otra opción',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'baea9f8b0df59338dfd51412301a5732'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '15103425915@s.whatsapp.net',
+    fromMe: false,
+    id: 'DA2DE757D1FDF53B6C0A3B87F437CF65',
+    participant: undefined
+  },
+  messageTimestamp: 1712293959,
+  pushName: 'CodexPE',
+  broadcast: false,
+  message: Message {
+    conversation: 'Blog',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CodexPE',
+  body: 'Blog',
+  from: '15103425915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f151cb35-724f-4cbc-8823-f0f0b27e8d75',
+  keyword: 'key_4acc7c2b-5359-4185-b5f1-1e413a710c1b',
+  answer: '📄✍️ *OK*, perfecto, persta mucha atencion\n' +
+    '\n' +
+    'Para tener un blog necesitarías lo siguiente:\n' +
+    '1. *Servidor y Hosting:*\n' +
+    'El costo promedio mensual de un servidor y hosting puede variar dependiendo del proveedor y los recursos que necesites. Un estimado básico puede estar alrededor de 50 a 100 soles mensuales.\n' +
+    '\n' +
+    '2. *Desarrollo del Blog:*\n' +
+    'Por el desarrollo del blog, el costo sería de *300 soles.* Este monto cubre el trabajo de desarrollo y la implementación del blog.\n' +
+    '\n' +
+    '3. *Costos adicionales:*\n' +
+    'Se debe considerar el costo del dominio, que suele ser alrededor de 50 a 100 soles al año, dependiendo de la extensión y la disponibilidad.\n' +
+    '\n' +
+    '*Hablemos ahora por Zoom y hagamos realidad tu proyecto.* Por favor, proporciona la *fecha*📅 y *hora*⏰ que te convenga, y lo coordinaremos.\n' +
+    '*¡Espero poder hablar contigo pronto!* 📅⏰',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b61122b1621d209bc75d175a48ffbb38'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51979384140@s.whatsapp.net',
+    fromMe: false,
+    id: 'E2171BF8F356CB2529B1F673D95D64B1',
+    participant: undefined
+  },
+  messageTimestamp: 1712294004,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Cómo lo hago?',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo lo hago?',
+  from: '51979384140'
+}

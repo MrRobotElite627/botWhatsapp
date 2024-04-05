@@ -1,0 +1,735 @@
+[
+  {
+    "ref": "90e3f877-a48c-43ef-851e-949796993ccd",
+    "keyword": "3bb483409c0af57d8d18917340c221da",
+    "answer": "Hola",
+    "options": {},
+    "from": "15103425915",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_56241c1a-07a5-439e-81da-c53adddaa261",
+    "keyword": "key_f4fef252-4c92-4e74-ac3d-5ba764f991af",
+    "answer": "🙌 Hola bienvenido a este *Chatbot*",
+    "options": {
+      "media": "https://www.shutterstock.com/image-vector/3d-artificial-intelligence-digital-brain-600nw-2288372371.jpg",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "11ad3c25b4b121c5c994bd4a939a51bf",
+    "from": "15103425915"
+  },
+  {
+    "ref": "ans_67bdb46e-bd4d-4c75-a656-4404778cccab",
+    "keyword": "ans_56241c1a-07a5-439e-81da-c53adddaa261",
+    "answer": "Por el momento estoy ocupado pero te puedo atender dentro de poco.\n\n*¿En qué puedo ayudarte?*\nMis servicios incluyen:\n\n*1.* _Desarrollo de páginas web_\n*2.* _Desarrollo de aplicaciones_\n*3.* _Desarrollo de sistemas web_\n*4.* _Creación de bots para *WhatsApp* y *Telegram*_\n\nSi deseas más información sobre alguno de estos servicios, no dudes en preguntar.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [
+        {
+          "ref": "key_a60b3ca2-ec8f-4b64-8d83-86cd8717899d",
+          "keyword": [
+            "1",
+            "web"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "a13b38be4cd130e21f05db60ce3f19e8"
+        },
+        {
+          "ref": "ans_7687cae7-1df7-44d5-880d-128ed356e82b",
+          "keyword": "key_a60b3ca2-ec8f-4b64-8d83-86cd8717899d",
+          "answer": "🌐 *Paginas web*, Excelente,\n*¿Qué tipo de página web necesitas?*\nPor favor, elige una opción:\n\n👉 *blog:* Blog\n👉 *ecommerce:* Tienda en línea\n👉 *corporativa:* Página corporativa\n👉 *restaurante:* Página web para restaurante\n👉 *educacion:* Página web para institución educativa\n👉 *otro* Otra opción",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_4acc7c2b-5359-4185-b5f1-1e413a710c1b",
+                "keyword": [
+                  "blog"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "a10d921f2d62da6b47e8163ce0118e74"
+              },
+              {
+                "ref": "ans_f151cb35-724f-4cbc-8823-f0f0b27e8d75",
+                "keyword": "key_4acc7c2b-5359-4185-b5f1-1e413a710c1b",
+                "answer": "📄✍️ *OK*, perfecto, persta mucha atencion\n\nPara tener un blog necesitarías lo siguiente:\n1. *Servidor y Hosting:*\nEl costo promedio mensual de un servidor y hosting puede variar dependiendo del proveedor y los recursos que necesites. Un estimado básico puede estar alrededor de 50 a 100 soles mensuales.\n\n2. *Desarrollo del Blog:*\nPor el desarrollo del blog, el costo sería de *300 soles.* Este monto cubre el trabajo de desarrollo y la implementación del blog.\n\n3. *Costos adicionales:*\nSe debe considerar el costo del dominio, que suele ser alrededor de 50 a 100 soles al año, dependiendo de la extensión y la disponibilidad.\n\n*Hablemos ahora por Zoom y hagamos realidad tu proyecto.* Por favor, proporciona la *fecha*📅 y *hora*⏰ que te convenga, y lo coordinaremos.\n*¡Espero poder hablar contigo pronto!* 📅⏰",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "b61122b1621d209bc75d175a48ffbb38"
+              },
+              {
+                "ref": "key_5cc7258e-1756-45f1-912b-2573bb53cec7",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_25d0598c-d291-459a-99f8-38cd4d41d888",
+                "keyword": "key_5cc7258e-1756-45f1-912b-2573bb53cec7",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "661cd0d825bab2d0622c08d406f10fc8"
+              },
+              {
+                "ref": "key_f293bd81-cf23-48d1-abc3-861c85c4beb1",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_ae16448f-22ab-471e-b715-bc6d89210109",
+                "keyword": "key_f293bd81-cf23-48d1-abc3-861c85c4beb1",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "113083e635b00d2c19c67fcc7906b00d"
+              },
+              {
+                "ref": "key_e6b7cd81-9cda-437b-a876-285fe7da6c5a",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_eebb0324-cf29-4edc-b38a-f009554b598a",
+                "keyword": "key_e6b7cd81-9cda-437b-a876-285fe7da6c5a",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "24c228ad4fc1e73ef578ac943b581cfe"
+              },
+              {
+                "ref": "key_2b946e02-259c-42ef-abb2-4f2c481baa0c",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_e31e48ee-7f1c-46ba-a7f5-2475531c7231",
+                "keyword": "key_2b946e02-259c-42ef-abb2-4f2c481baa0c",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "96098e232f45f48aa7cb1bbf46588e9b"
+              },
+              {
+                "ref": "key_87dc4aad-a98d-4e70-9c19-a786c119850a",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_95dc7718-333d-4eb1-8126-8e256a9d7ba8",
+                "keyword": "key_87dc4aad-a98d-4e70-9c19-a786c119850a",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "89a06ad70db4d7de53a6913075df8af7"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "baea9f8b0df59338dfd51412301a5732"
+        },
+        {
+          "ref": "key_a772da93-ac78-40a0-b3d9-1d9baadadc8c",
+          "keyword": [
+            "gracias",
+            "grac"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "1fe6b9002925caf13f444479e73d4434"
+        },
+        {
+          "ref": "ans_3b1cf21d-3980-488a-99dc-73670e867ff9",
+          "keyword": "key_a772da93-ac78-40a0-b3d9-1d9baadadc8c",
+          "answer": "🚀 Puedes aportar tu granito de arena a este proyecto\n[*opencollective*] https://opencollective.com/bot-whatsapp\n[*buymeacoffee*] https://www.buymeacoffee.com/leifermendez\n[*patreon*] https://www.patreon.com/leifermendez\n\n*2* Para siguiente paso.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_87dc4aad-a98d-4e70-9c19-a786c119850a",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_95dc7718-333d-4eb1-8126-8e256a9d7ba8",
+                "keyword": "key_87dc4aad-a98d-4e70-9c19-a786c119850a",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "89a06ad70db4d7de53a6913075df8af7"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "00755f8b47c64b16227d0320e8a7abb6"
+        },
+        {
+          "ref": "key_68184242-9923-461b-8988-7545d5b3c1e8",
+          "keyword": [
+            "tutorial",
+            "tuto"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "5155dd58eba463ddd0effa966e7db620"
+        },
+        {
+          "ref": "ans_aa3eba84-c617-4214-89b7-79aff1fd82a1",
+          "keyword": "key_68184242-9923-461b-8988-7545d5b3c1e8",
+          "answer": "🙌 Aquí encontras un ejemplo rapido\nhttps://bot-whatsapp.netlify.app/docs/example/\n\n*2* Para siguiente paso.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_87dc4aad-a98d-4e70-9c19-a786c119850a",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_95dc7718-333d-4eb1-8126-8e256a9d7ba8",
+                "keyword": "key_87dc4aad-a98d-4e70-9c19-a786c119850a",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "89a06ad70db4d7de53a6913075df8af7"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "dd6b720e055489f75dcc5fb633286cc1"
+        },
+        {
+          "ref": "key_7f8392f7-c526-4237-b7b2-557a7db9ae2a",
+          "keyword": [
+            "discord"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "be744c19342592b913373a1f8728649c"
+        },
+        {
+          "ref": "ans_8bf58fd7-059e-4652-be78-b9fa614434ac",
+          "keyword": "key_7f8392f7-c526-4237-b7b2-557a7db9ae2a",
+          "answer": "🤪 Únete al discord\nhttps://link.codigoencasa.com/DISCORD\n\n*2* Para siguiente paso.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_87dc4aad-a98d-4e70-9c19-a786c119850a",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_95dc7718-333d-4eb1-8126-8e256a9d7ba8",
+                "keyword": "key_87dc4aad-a98d-4e70-9c19-a786c119850a",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "89a06ad70db4d7de53a6913075df8af7"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "3dd790456777288e8f579b0c8a4e43a4"
+        },
+        {
+          "ref": "key_ceda0d5b-7dfd-4c99-9d89-912d562573cf",
+          "keyword": [
+            "discord"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "be744c19342592b913373a1f8728649c"
+        },
+        {
+          "ref": "ans_7b19da5e-073c-41a0-a988-428ddaa522fd",
+          "keyword": "key_ceda0d5b-7dfd-4c99-9d89-912d562573cf",
+          "answer": "🤪 Únete al discord\nhttps://link.codigoencasa.com/DISCORD\n\n*2* Para siguiente paso.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_87dc4aad-a98d-4e70-9c19-a786c119850a",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_95dc7718-333d-4eb1-8126-8e256a9d7ba8",
+                "keyword": "key_87dc4aad-a98d-4e70-9c19-a786c119850a",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "89a06ad70db4d7de53a6913075df8af7"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "9ffe6d565c17caabcdaec05688624f86"
+        }
+      ],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "6edb75f604fae5330d98296a7ca4c7b1",
+    "from": "15103425915"
+  },
+  {
+    "ref": "343172e6-d93c-4cc2-8c57-0c2d0de537e7",
+    "keyword": "6edb75f604fae5330d98296a7ca4c7b1",
+    "answer": "1",
+    "options": {},
+    "from": "15103425915",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_7687cae7-1df7-44d5-880d-128ed356e82b",
+    "keyword": "key_a60b3ca2-ec8f-4b64-8d83-86cd8717899d",
+    "answer": "🌐 *Paginas web*, Excelente,\n*¿Qué tipo de página web necesitas?*\nPor favor, elige una opción:\n\n👉 *blog:* Blog\n👉 *ecommerce:* Tienda en línea\n👉 *corporativa:* Página corporativa\n👉 *restaurante:* Página web para restaurante\n👉 *educacion:* Página web para institución educativa\n👉 *otro* Otra opción",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [
+        {
+          "ref": "key_4acc7c2b-5359-4185-b5f1-1e413a710c1b",
+          "keyword": [
+            "blog"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "a10d921f2d62da6b47e8163ce0118e74"
+        },
+        {
+          "ref": "ans_f151cb35-724f-4cbc-8823-f0f0b27e8d75",
+          "keyword": "key_4acc7c2b-5359-4185-b5f1-1e413a710c1b",
+          "answer": "📄✍️ *OK*, perfecto, persta mucha atencion\n\nPara tener un blog necesitarías lo siguiente:\n1. *Servidor y Hosting:*\nEl costo promedio mensual de un servidor y hosting puede variar dependiendo del proveedor y los recursos que necesites. Un estimado básico puede estar alrededor de 50 a 100 soles mensuales.\n\n2. *Desarrollo del Blog:*\nPor el desarrollo del blog, el costo sería de *300 soles.* Este monto cubre el trabajo de desarrollo y la implementación del blog.\n\n3. *Costos adicionales:*\nSe debe considerar el costo del dominio, que suele ser alrededor de 50 a 100 soles al año, dependiendo de la extensión y la disponibilidad.\n\n*Hablemos ahora por Zoom y hagamos realidad tu proyecto.* Por favor, proporciona la *fecha*📅 y *hora*⏰ que te convenga, y lo coordinaremos.\n*¡Espero poder hablar contigo pronto!* 📅⏰",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "b61122b1621d209bc75d175a48ffbb38"
+        },
+        {
+          "ref": "key_5cc7258e-1756-45f1-912b-2573bb53cec7",
+          "keyword": [
+            "2",
+            "siguiente"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+        },
+        {
+          "ref": "ans_25d0598c-d291-459a-99f8-38cd4d41d888",
+          "keyword": "key_5cc7258e-1756-45f1-912b-2573bb53cec7",
+          "answer": "📄 Aquí tenemos el flujo secundario",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "661cd0d825bab2d0622c08d406f10fc8"
+        },
+        {
+          "ref": "key_f293bd81-cf23-48d1-abc3-861c85c4beb1",
+          "keyword": [
+            "2",
+            "siguiente"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+        },
+        {
+          "ref": "ans_ae16448f-22ab-471e-b715-bc6d89210109",
+          "keyword": "key_f293bd81-cf23-48d1-abc3-861c85c4beb1",
+          "answer": "📄 Aquí tenemos el flujo secundario",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "113083e635b00d2c19c67fcc7906b00d"
+        },
+        {
+          "ref": "key_e6b7cd81-9cda-437b-a876-285fe7da6c5a",
+          "keyword": [
+            "2",
+            "siguiente"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+        },
+        {
+          "ref": "ans_eebb0324-cf29-4edc-b38a-f009554b598a",
+          "keyword": "key_e6b7cd81-9cda-437b-a876-285fe7da6c5a",
+          "answer": "📄 Aquí tenemos el flujo secundario",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "24c228ad4fc1e73ef578ac943b581cfe"
+        },
+        {
+          "ref": "key_2b946e02-259c-42ef-abb2-4f2c481baa0c",
+          "keyword": [
+            "2",
+            "siguiente"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+        },
+        {
+          "ref": "ans_e31e48ee-7f1c-46ba-a7f5-2475531c7231",
+          "keyword": "key_2b946e02-259c-42ef-abb2-4f2c481baa0c",
+          "answer": "📄 Aquí tenemos el flujo secundario",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "96098e232f45f48aa7cb1bbf46588e9b"
+        },
+        {
+          "ref": "key_87dc4aad-a98d-4e70-9c19-a786c119850a",
+          "keyword": [
+            "2",
+            "siguiente"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+        },
+        {
+          "ref": "ans_95dc7718-333d-4eb1-8126-8e256a9d7ba8",
+          "keyword": "key_87dc4aad-a98d-4e70-9c19-a786c119850a",
+          "answer": "📄 Aquí tenemos el flujo secundario",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "89a06ad70db4d7de53a6913075df8af7"
+        }
+      ],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "baea9f8b0df59338dfd51412301a5732",
+    "from": "15103425915"
+  },
+  {
+    "ref": "a7c81d54-5b05-4db1-ac0b-e59b85b70505",
+    "keyword": "baea9f8b0df59338dfd51412301a5732",
+    "answer": "Blog",
+    "options": {},
+    "from": "15103425915",
+    "refSerialize": "d1571597c4a92ef409d7dba045474f42"
+  },
+  {
+    "ref": "ans_f151cb35-724f-4cbc-8823-f0f0b27e8d75",
+    "keyword": "key_4acc7c2b-5359-4185-b5f1-1e413a710c1b",
+    "answer": "📄✍️ *OK*, perfecto, persta mucha atencion\n\nPara tener un blog necesitarías lo siguiente:\n1. *Servidor y Hosting:*\nEl costo promedio mensual de un servidor y hosting puede variar dependiendo del proveedor y los recursos que necesites. Un estimado básico puede estar alrededor de 50 a 100 soles mensuales.\n\n2. *Desarrollo del Blog:*\nPor el desarrollo del blog, el costo sería de *300 soles.* Este monto cubre el trabajo de desarrollo y la implementación del blog.\n\n3. *Costos adicionales:*\nSe debe considerar el costo del dominio, que suele ser alrededor de 50 a 100 soles al año, dependiendo de la extensión y la disponibilidad.\n\n*Hablemos ahora por Zoom y hagamos realidad tu proyecto.* Por favor, proporciona la *fecha*📅 y *hora*⏰ que te convenga, y lo coordinaremos.\n*¡Espero poder hablar contigo pronto!* 📅⏰",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "b61122b1621d209bc75d175a48ffbb38",
+    "from": "15103425915"
+  }
+]
